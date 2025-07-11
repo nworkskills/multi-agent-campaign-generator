@@ -1,0 +1,121 @@
+General E-Commerce Trends
+"Create a campaign for sustainable products."
+"Design a marketing plan for smart home devices."
+"Generate a campaign for vegan cosmetics."
+"Develop a strategy for wearable tech."
+"Plan a campaign for personalized gifts."
+
+Sustainability-Focused Queries
+"Suggest a campaign for eco-friendly toys."
+"Create a marketing plan for green energy gadgets."
+"Design a strategy for sustainable fashion."
+"Generate a campaign for sustainable packaging solutions."
+"Develop a plan for eco-friendly jewelry."
+
+Technology-Driven Queries
+"Create a campaign for AR shopping experiences."
+"Design a marketing plan for 3D printing products."
+"Generate a strategy for smart appliances."
+"Develop a campaign for pet tech innovations."
+"Plan a marketing strategy for AI-powered chatbots."
+
+Lifestyle and Health Queries
+"Suggest a campaign for organic food products."
+"Create a marketing plan for health supplements."
+"Design a strategy for home fitness gear."
+"Generate a campaign for plant-based meat alternatives."
+"Develop a plan for virtual fitness classes."
+
+Niche and Emerging Markets
+"Create a campaign for second-hand fashion."
+"Design a marketing plan for custom sneakers."
+"Generate a strategy for kids' coding kits."
+"Develop a campaign for digital art tools."
+"Plan a marketing strategy for luxury travel."
+
+Hybrid and Creative Queries
+"Suggest a campaign combining sustainable fashion and wearable tech."
+"Create a marketing plan for smart furniture and home security systems."
+"Design a strategy blending virtual events and online education."
+"Generate a campaign for eco-friendly toys and green energy gadgets."
+"Develop a plan integrating personalized gifts and plant-based meat."
+
+Broad and Open-Ended Queries
+"What are some campaign ideas for trending e-commerce products?"
+"Generate a creative marketing strategy for the latest market trends."
+"Design a campaign based on high-growth e-commerce sectors."
+"Suggest a plan for emerging e-commerce opportunities."
+"Create a personalized campaign for any trending product."
+
+
+
+
+General Overview and Purpose
+What is the main goal of this Multi-Agent Campaign Generator demo?
+Why is multi-agent collaboration with generative AI important for e-commerce?
+How does this demo differ from traditional single-agent AI systems?
+What real-world problems does this campaign generator solve?
+
+Technical Concepts
+What is Pinecone, and how does it help in this demo?
+How do vector embeddings work, and why are they used here?
+What is asyncio, and why is it necessary for the agents?
+How does LangChain enable agent collaboration in this project?
+What role does the OpenAI API play in generating campaign ideas?
+
+Setup and Installation
+What are the minimum requirements to run this demo on my computer?
+How do I set up the API keys for OpenAI and Pinecone?
+What should I do if I encounter errors during the Docker setup?
+Can I run this demo without Docker, using only Python?
+How do I install the dependencies listed in requirements.txt?
+
+Code and Execution
+What does the ingest_campaign_data.py script do, step by step?
+How do the three agents (Idea, Trend, Optimization) interact in campaign_generator.py?
+What happens if the Pinecone index fails to update during ingestion?
+Can I modify the script to use a different AI model instead of gpt-4o-mini?
+How can I test the script with my own query or data?
+
+Data and Sample Records
+Where did the 30 records in campaign_data.csv come from?
+Can I add more trends to the campaign_data.csv file, and how?
+What format should the metadata in the CSV follow?
+How can I collect my own trend data for this demo?
+
+Interactivity and UI
+How does the Gradio UI work, and what can I do with it?
+Why did you choose Gradio over other UI frameworks?
+Can I save the chat history or campaign outputs from the Gradio interface?
+How can I customize the graph display in the Gradio UI?
+Is there a way to access the REST API from a mobile device?
+
+Docker and Deployment
+What is the purpose of the Dockerfile in this project?
+How do I check the Docker container logs if something goes wrong?
+Can I deploy this demo to a cloud service like AWS or Google Cloud?
+What ports should I expose when running the Docker container?
+
+Use Cases and Applications
+How can businesses use this campaign generator in their marketing strategy?
+Can this system be adapted for other industries besides e-commerce?
+What are some future enhancements I could add to this demo?
+How does this demo align with current market trends like sustainability?
+
+Advantages and Limitations
+What are the main advantages of using a multi-agent system here?
+Are there any limitations or challenges with this approach?
+How scalable is this system for large datasets or high traffic?
+What are the costs associated with running this demo (e.g., API usage)?
+
+Learning and Community
+What skills will I gain by following this demo?
+Are there resources to learn more about multi-agent systems?
+Can I contribute to the GitHub repository, and how?
+How can I get help if I’m stuck with the code or setup?
+
+Interactive and Future Features
+Can I add voice input to the Gradio UI for hands-free use?
+Is it possible to integrate real-time data feeds into this system?
+How can I add a feedback loop for the agents to improve over time?
+What other visualizations (besides graphs) could enhance this demo?
